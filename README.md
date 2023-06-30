@@ -1,10 +1,16 @@
-### Hi 
-I'm Jeremy 
-
-#### Courses & Certifications:
+### Hey
+***
+I'm Jeremy. A self-taught programmer with a passion for Django based web development. 
+***
+## Courses & Certifications:
 [CS50](https://github.com/arkterra90/CS50)
 
 [CS50_Web](https://github.com/arkterra90/CS50_web)
+
+## Projects:
+[Yard Water](https://github.com/arkterra90/Yard_Water)
+[Finance](https://github.com/arkterra90/Finance)
+[Wthrbsh](https://github.com/arkterra90/wthrbsh)
 
 
 
