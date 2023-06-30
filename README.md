@@ -7,6 +7,8 @@ I'm Jeremy. A self-taught programmer with a passion for Django based web develop
 
 [CS50_Web](https://github.com/arkterra90/CS50_web)
 
+[IBM Z Xplore Concepts](https://www.credly.com/badges/6abfc296-9439-4abe-9ce0-2e294b1726e3/public_url)
+
 ## Projects:
 [Yard Water](https://github.com/arkterra90/Yard_Water)
 
