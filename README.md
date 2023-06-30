@@ -9,7 +9,9 @@ I'm Jeremy. A self-taught programmer with a passion for Django based web develop
 
 ## Projects:
 [Yard Water](https://github.com/arkterra90/Yard_Water)
+
 [Finance](https://github.com/arkterra90/Finance)
+
 [Wthrbsh](https://github.com/arkterra90/wthrbsh)
 
 
