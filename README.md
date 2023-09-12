@@ -1,6 +1,6 @@
 ### Hey
 ***
-I'm Jeremy. A self-taught programmer with a passion for Django based web development. 
+I'm Jeremy. A self-taught programmer with a passion for web development. 
 ***
 ## Courses & Certifications:
 [CS50](https://github.com/arkterra90/CS50)
