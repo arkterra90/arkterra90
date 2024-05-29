@@ -33,6 +33,10 @@ I'm Jeremy. A self-taught programmer with a passion for web development.
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat)](https://git-scm.com/)
 [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 
+#### I'm Currently Working On
+[Ruby](https://github.com/ruby/ruby)
+[Ruby On Rails](https://github.com/rails/rails)
+
 <!--
 **arkterra90/arkterra90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
